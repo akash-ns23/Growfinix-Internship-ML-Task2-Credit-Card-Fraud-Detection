@@ -1,0 +1,20 @@
+First 5 rows of dataset:
+   Amount   Time  Target
+0     960  84652       0
+1    3872  63336       0
+2    3192  10966       0
+3     566  24539       0
+4    4526  70593       0
+
+Missing values:
+Amount    0
+Time      0
+Target    0
+dtype: int64
+
+==============================
+RESULT
+==============================
+Isolation Forest Accuracy: 1.0
+
+Task Completed Successfully!
