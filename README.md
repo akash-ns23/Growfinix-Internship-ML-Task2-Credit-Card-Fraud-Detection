@@ -3,7 +3,7 @@ Machine Learning project for detecting credit card fraud transactions using Pyth
 
 # Credit Card Fraud Detection using Machine Learning
 
-## Growfinnix Machine Learning Internship
+## Growfinix Machine Learning Internship
 
 ### Task 2: Finance – Credit Card Fraud Detection (Imbalanced Data)
 
